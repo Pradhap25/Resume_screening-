@@ -1,0 +1,12 @@
+openai
+fastapi
+uvicorn
+python-dotenv
+PyPDF2
+python-multipart
+requests
+#uvicorn app.main:app --reload
+#streamlit  run streamlit.py
+#python -m venv venv
+#.\venv\Scripts\Activate.ps1
+#Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
